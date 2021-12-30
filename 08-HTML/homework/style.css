@@ -1,10 +1,48 @@
 h1 {
-    color: blueviolet;
+    color: #f714d5;
+    border-radius: 70px;
+    background-color: floralwhite;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Verdana;
+    
+    
+}
+
+h2{
+   font-size: 20px;
+   text-align: right;
+   color: #fff;
+   margin-right: 70px;
+   font-family:  Verdana;
+}
+
+h3{
+    font-size: 25px;
+    
+    color: #fff;
+}
+
+h4{
+    color: rgb(246, 249, 250);
+    text-align: right;
+    margin-right: 70px;
+    font-size: 17px;
+    font-family: sans-serif;
+
+    
+
 }
 
 img{
-    max-width: 400px;
-    margin-top: 15px;
+    max-width: 420px;
+    margin-top: 5px;
+    border-radius: 50px;
+    border: solid black 2px;
+    height: 250px;
+    width: 550px;
+    object-fit: cover;
     
     
 
@@ -13,29 +51,46 @@ img{
 #thirdDiv{
     width: 500px;
     height: 600px;
-    background-color: #FFBD35;
-    margin-top: 20px;
+    background-color: #fbb902;
+    margin-top: 15px;
+    justify-content: center;
+    
 }
 
 #spanId{
     font-size: 18px;
-    margin: 50px;
+    
     
 }
 
 #thirdDiv{
-    padding: 50px;
-    border-radius: 20px;
+    padding: 70px;
+    display: block;
+    border: solid 2px black;
+    border-radius: 70px;
+    margin: auto;
+    
     
 }
 
-a{
-    
-    text-align: center;
-    padding: 50px;
-    
-}
 
 #liUno{
     list-style: none;
+    
+}
+
+body{
+    background-image:url('background-img.png') ;
+    background-size: cover;
+    background-position: center;
+    margin: auto;
+    
+}
+
+.divClass{
+ justify-content: center;
+ text-align: center;
+    
+
+
 }
