@@ -1,0 +1,86 @@
+
+#div01{
+    background: #676FA3;
+   display: flex;
+
+}
+#div01 div{
+    margin: 5px;
+    padding: 5px;
+}
+img{
+    margin-top: 28px;
+    margin-left: 40px;
+    object-fit: cover;
+    max-height: 400px;
+    max-width: 400px;
+    border: cornsilk solid 5px;
+}
+
+body{
+    background-color: #676FA3;
+    font-family: 'Montserrat 300', sans-serif;
+}
+
+h1{
+    color: cornsilk;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    
+    
+}
+
+h3{
+    margin-left: 40px;
+    margin-top: 40px;
+    color: cornsilk;
+    font-size: 22px;
+    text-decoration: underline;
+}
+
+q{
+    color: cornsilk;
+}
+#head01{
+    color: cornsilk;
+    font-size: 18px;
+}
+#parra01{
+    color: cornsilk;
+    font-size: 16px;
+    margin-right: 40px;
+    letter-spacing: normal;
+    text-align: justify;
+
+
+   
+    
+}    
+    
+
+
+button{
+    color: #676FA3;
+    background-color: cornsilk;
+    border: cornsilk 12px;
+    font-size: 20px;
+    border-radius: 20px;
+    
+    
+}
+
+a { 
+    
+    color: #676FA3; }
+
+ul{
+    color: cornsilk;
+    
+}
+
+#parr02{
+    color: cornsilk;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 60px;
+}
